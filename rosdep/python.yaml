@@ -2912,6 +2912,7 @@ python-psycopg2:
   debian: [python-psycopg2]
   fedora: [python-psycopg2]
   gentoo: [=dev-python/psycopg-2*]
+  ubuntu: [python-psycopg2]
 python-pulsectl-pip:
   debian:
     pip:
